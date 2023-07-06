@@ -1,0 +1,1 @@
+nitialization: To start using Git in a project, you initialize a new Git repository in the project's root directory using the command git init. This creates the necessary files and directories for Git to manage version control.
